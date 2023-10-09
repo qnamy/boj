@@ -24,7 +24,6 @@ public class Boj1629 {
     }
 
     private static long solution (long a, long b, long c) {
-        // a 와 c 의 최대공약수
         return calc(a, b, c);
     }
 
