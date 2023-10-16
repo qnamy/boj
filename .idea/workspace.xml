@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44a4668-764d-4d4b-99c5-d054741e6e3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Boj1865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boj1916.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "boj/1865",
+    "git-widget-placeholder": "boj/1916",
     "onboarding.tips.debug.path": "/Users/qnamy/Practice/boj/src/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boj1865">
+  <component name="RunManager" selected="Application.Boj1916">
     <configuration name="Boj1238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boj1238" />
       <module name="boj" />
@@ -89,8 +89,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Boj1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boj1916" />
+      <module name="boj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Boj1916" />
         <item itemvalue="Application.Boj1865" />
         <item itemvalue="Application.Boj1753" />
         <item itemvalue="Application.Boj1629" />
