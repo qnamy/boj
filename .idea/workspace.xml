@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44a4668-764d-4d4b-99c5-d054741e6e3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Boj5639.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boj2239.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "boj/5639",
+    "git-widget-placeholder": "boj/2239",
     "onboarding.tips.debug.path": "/Users/qnamy/Practice/boj/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boj5639">
+  <component name="RunManager" selected="Application.Boj2239">
     <configuration name="Boj1005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boj1005" />
       <module name="boj" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj2096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boj2096" />
+    <configuration name="Boj2239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boj2239" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Boj2239" />
         <item itemvalue="Application.Boj5639" />
         <item itemvalue="Application.Boj2448" />
         <item itemvalue="Application.Boj2638" />
         <item itemvalue="Application.Boj1005" />
-        <item itemvalue="Application.Boj2096" />
       </list>
     </recent_temporary>
   </component>
