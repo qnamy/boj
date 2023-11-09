@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44a4668-764d-4d4b-99c5-d054741e6e3c" name="Changes" comment="feat: boj11404">
-      <change afterPath="$PROJECT_DIR$/src/Boj12833.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boj25166.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "boj/12833",
+    "git-widget-placeholder": "boj/25166",
     "onboarding.tips.debug.path": "/Users/qnamy/Practice/boj/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -63,14 +63,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boj12833">
-    <configuration name="Boj1202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boj1202" />
-      <module name="boj" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Boj25166">
     <configuration name="Boj1208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boj1208" />
       <module name="boj" />
@@ -92,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Boj25166" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boj25166" />
+      <module name="boj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Boj27960" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boj27960" />
       <module name="boj" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Boj25166" />
         <item itemvalue="Application.Boj12833" />
         <item itemvalue="Application.Boj24389" />
         <item itemvalue="Application.Boj27960" />
         <item itemvalue="Application.Boj1208" />
-        <item itemvalue="Application.Boj1202" />
       </list>
     </recent_temporary>
   </component>
