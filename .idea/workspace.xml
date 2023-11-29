@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44a4668-764d-4d4b-99c5-d054741e6e3c" name="Changes" comment="feat: boj11404">
-      <change afterPath="$PROJECT_DIR$/src/Boj28140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boj14222.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "boj/28140",
+    "git-widget-placeholder": "boj/14222",
     "onboarding.tips.debug.path": "/Users/qnamy/Practice/boj/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -63,9 +63,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boj28140">
-    <configuration name="Boj11054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boj11054" />
+  <component name="RunManager" selected="Application.Boj14222">
+    <configuration name="Boj14222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boj14222" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Boj14222" />
         <item itemvalue="Application.Boj28140" />
         <item itemvalue="Application.Boj15924" />
         <item itemvalue="Application.Boj3987" />
         <item itemvalue="Application.Boj15652" />
-        <item itemvalue="Application.Boj11054" />
       </list>
     </recent_temporary>
   </component>
