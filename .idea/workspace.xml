@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44a4668-764d-4d4b-99c5-d054741e6e3c" name="Changes" comment="feat: boj11404">
-      <change afterPath="$PROJECT_DIR$/src/Boj2447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boj1897.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "boj/2447",
+    "git-widget-placeholder": "boj/1897",
     "onboarding.tips.debug.path": "/Users/qnamy/Practice/boj/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -63,9 +63,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boj2447">
-    <configuration name="Boj1759" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boj1759" />
+  <component name="RunManager" selected="Application.Boj1897">
+    <configuration name="Boj1897" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boj1897" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Boj1897" />
         <item itemvalue="Application.Boj2447" />
         <item itemvalue="Application.Boj2493" />
         <item itemvalue="Application.Boj2294" />
         <item itemvalue="Application.Boj2293" />
-        <item itemvalue="Application.Boj1759" />
       </list>
     </recent_temporary>
   </component>
