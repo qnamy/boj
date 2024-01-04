@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 public class Boj1987 {
-    private static final int[][] dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // 상하좌우
+    private static final int[][] DIR = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // 상하좌우
     private static int r;
     private static int c;
 
@@ -11,7 +11,7 @@ public class Boj1987 {
         try (
                 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
                 BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out))
-                ) {
+        ) {
 
             StringTokenizer st = new StringTokenizer(br.readLine());
 
@@ -40,20 +40,17 @@ public class Boj1987 {
     }
 
     private static int dfs(char[][] board, int x, int y, int count, boolean[] visited) {
-        if (visited[board[x][y]-'A']) return count;
-
-        visited[board[x][y]-'A'] = true;
-
-        int max = 0;
-
-        for (int[] d : dir) {
-            int nx = x + d[0];
-            int ny = y + d[1];
-
-            if (nx < 0 || nx >= r || ny < 0 || ny >= c) continue;
-            max = Math.max(max, dfs(board, nx, ny, count+1, visited));
+        if (x < 0 || x >= r || y < 0 || y >= c || visited[board[x][y]-'A']) {
+            return count;
         }
 
+        visited[board[x][y]-'A'] = true;
+        int max = 0;
+        for (int[] d : DIR) {
+            int nx = x + d[0];
+            int ny = y + d[1];
+            max = Math.max(max, dfs(board, nx, ny, count+1, visited));
+        }
         visited[board[x][y]-'A'] = false;
 
         return max;
